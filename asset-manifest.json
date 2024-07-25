@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portofolio-2.0/static/css/main.bb0917cd.css",
-    "main.js": "/Portofolio-2.0/static/js/main.78e21d90.js",
+    "main.js": "/Portofolio-2.0/static/js/main.9c70a5e8.js",
     "static/js/453.6a54098e.chunk.js": "/Portofolio-2.0/static/js/453.6a54098e.chunk.js",
     "static/media/mbrapa.png": "/Portofolio-2.0/static/media/mbrapa.04b78e34c952b18a37e2.png",
     "static/media/8k_earth_clouds.jpg": "/Portofolio-2.0/static/media/8k_earth_clouds.08fcd80007fae8fc7170.jpg",
@@ -30,11 +30,11 @@
     "static/media/logo.svg": "/Portofolio-2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Portofolio-2.0/index.html",
     "main.bb0917cd.css.map": "/Portofolio-2.0/static/css/main.bb0917cd.css.map",
-    "main.78e21d90.js.map": "/Portofolio-2.0/static/js/main.78e21d90.js.map",
+    "main.9c70a5e8.js.map": "/Portofolio-2.0/static/js/main.9c70a5e8.js.map",
     "453.6a54098e.chunk.js.map": "/Portofolio-2.0/static/js/453.6a54098e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb0917cd.css",
-    "static/js/main.78e21d90.js"
+    "static/js/main.9c70a5e8.js"
   ]
 }
